@@ -1,5 +1,5 @@
 ---
-description: ubuntu 24.04 -  Noble Numbat
+description: Ubuntu 24.04 -  Noble Numbat
 cover: ../.gitbook/assets/Noble-Numbat_1600x900.jpg
 coverY: 0
 ---
