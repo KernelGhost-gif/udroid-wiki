@@ -34,3 +34,4 @@ udroid install noble:gnome
 ```bash
 udroid install noble:raw
 ```
+### Waiting for more build releases
